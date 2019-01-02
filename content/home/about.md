@@ -38,7 +38,7 @@ weight = 5
  
 +++
 
-# Biography
-Nic Dalmasso.
+# About
+I am third year PhD student in the department of Statistics & Data Science at Carnegie Mellon University. My primary research interests are statistical machine learning methodologies driven by real world problems, mainly from the natural sciences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to CMU, I have worked for a couple of years in London as Analyst for Zynga (NaturalMotion) after pursuing an M.Sc. in Statistics at Imperial College London, where I have worked on bayesian hierarchical models for cosmology under the guidance of Dr. Daniel Mortlock. Before that, everything started with a B.Sc. in Mathematics and a Diploma in Government and Natural Sciences from University of Turin, Italy.
