@@ -3,11 +3,11 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Honors"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 16
+weight = 15
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

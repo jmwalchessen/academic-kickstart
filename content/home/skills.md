@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 10
 
 # Showcase personal skills or business features.
 # 
@@ -20,23 +20,37 @@ weight = 7
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics" 
+
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Machine Learning" 
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis" 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "2.7 - 3.6"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+  description = "MySQL - Vertica SQL" 
 
 +++

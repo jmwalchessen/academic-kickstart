@@ -10,26 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Statistical Machine Learning",
+    "Non-Parametric Methods",
+    "High Dimensional Settings"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Statistics & Data Science"
+  institution = "Carnegie Mellon University"
+  year = 2021
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSC in Statistics"
+  institution = "Imperial College London"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Mathematics"
+  institution = "Università degli Studi di Torino"
+  year = 2010
+
+[[education.courses]]
+  course = "Diploma in Natural Sciences"
+  institution = "Scuola di Studi Superiori 'Ferdinando Rossi'"
+  year = 2010
  
 +++
 
