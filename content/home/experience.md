@@ -37,6 +37,7 @@ date_format = "January 2006"
   description = """Data processing and modeling for live and in development games, mainly [Dawn of Titans](http://www.dawnoftitans.com/). Main projects:
   
   * Behavior-based clustering for the user base;
+  * Supervised classification task mainly targeting user retention and monetization;
   * Automatic KPI reporting for company-wide distribution;
   * ETL data pipelines in Python for live internal dashboards."""
 
