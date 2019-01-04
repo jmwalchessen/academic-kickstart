@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-04T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -39,6 +39,6 @@ weight = 5
 +++
 
 # About
-I am third year PhD student in the department of Statistics & Data Science at Carnegie Mellon University. My primary research interests are statistical machine learning methodologies driven by real world problems, mainly from the natural sciences. I am also interested in high dimensional non-parametrics and model validation techniques.
+I am third year PhD student in the department of Statistics & Data Science at Carnegie Mellon University. My primary research interests are statistical machine learning methodologies driven by real world problems, mainly from the natural sciences. I am a member of the [STAMPS](http://stat.cmu.edu/stamps/), [StatML](http://statml.cs.cmu.edu/), Statistics in Sports and Data Science Initiative groups.
 
-Prior to CMU, I have worked for a couple of years in London as Analyst for Zynga (NaturalMotion) after pursuing an M.Sc. in Statistics at Imperial College London, where I have worked on bayesian hierarchical models for cosmology under the guidance of Dr. Daniel Mortlock. Before that, everything started with a B.Sc. in Mathematics and a Diploma in Government and Natural Sciences from University of Turin, Italy.
+Prior to CMU, I have worked for a couple of years in London as Analyst for Zynga (NaturalMotion) after pursuing an M.Sc. in Statistics at Imperial College London, where I have worked on bayesian hierarchical models for cosmology under the guidance of [Dr. Daniel Mortlock](https://www.imperial.ac.uk/people/d.mortlock). Before that, everything started with a B.Sc. in Mathematics and a Diploma in Government and Natural Sciences from University of Turin, Italy.

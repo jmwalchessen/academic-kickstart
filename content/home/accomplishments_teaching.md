@@ -20,27 +20,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Teaching Assistant"
+  organization = "Department of Statistics & Data Science, Carnegie Mellon University"
+  certificate_url = ""
+  date_start = "2016-08-01"
   date_end = ""
-  description = ""
+  description = """In-class tutorials, office hours and grading for the following classes: 
+
+  * 36-401 Modern Regression 
+  * 36-402 Undergraduate Advanced Data Analysis 
+  * 36-492 Financial Data Science I 
+  * 36-493 Financial Data Science II 
+  * 36-315 Statistical Graphics and Visualization (Head TA)
+  * 36-750 Statistical Computing - Graduate Level
+  """
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  title = "Lecturer"
+  organization = "[Campus FMS](http://www.campusmfs.it/)"
+  certificate_url = ""
+  date_start = "2012-07-01"
+  date_end = "2016-07-01"
+  description = """ Taught a multitude of classes during summer and winter courses for high school students, located in the Turin area (Italy). Courses and tutorials included:
+
+  - Mathematical analysis in one, two and higher dimensions
+  - Game theory
+  - Probability theory and Statistics
+  - Dynamical systems
+  - Mathematical Logic
+ """
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Advising and Mentoring"
+  organization = "Department of Statistics & Data Science, Carnegie Mellon University"
+  certificate_url = ""
+  date_start = "2016-08-02"
+  description = """ Supervised research carried out by undergraduates students in different occasions:
+
+  * *Summer Undergraduate Research Experience* ([SURE](http://summer.stat.cmu.edu/), Summer 2017) - Advised a team working on automatic typing discrimination and handwritten signature analysis
+  * *Data Science Initiative (DSI) Fellow* (Fall 2018) - Advised two undergraduate teams working with [Principal Financial](https://www.principal.com/).
+
+  """
 
 +++

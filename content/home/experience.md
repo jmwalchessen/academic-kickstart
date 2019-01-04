@@ -21,23 +21,23 @@ date_format = "January 2006"
 [[experience]]
   title = "AI Research Intern"
   company = "IBM Research"
-  company_url = ""
+  company_url = "http://www.research.ibm.com/"
   location = "Yorktown Heights, NY"
   date_start = "2018-05-23"
   date_end = "2018-08-10"
-  description = """  """
+  description = """Convolutional deep neural networks pruning for multiple objectives, in PyTorch. """
 
 [[experience]]
   title = "Game Analyst - Data Science Team"
   company = "Zynga (Naturalmotion LTD)"
-  company_url = ""
+  company_url = "https://www.naturalmotion.com/"
   location = "London"
   date_start = "2014-10-01"
   date_end = "2016-06-03"
-  description = """Responsibilities include:
+  description = """Data processing and modeling for live and in development games, mainly [Dawn of Titans](http://www.dawnoftitans.com/). Main projects:
   
-  * Analysing
-  * Modelling
-  * Deploying"""
+  * Behavior-based clustering for the user base;
+  * Automatic KPI reporting for company-wide distribution;
+  * ETL data pipelines in Python for live internal dashboards."""
 
 +++

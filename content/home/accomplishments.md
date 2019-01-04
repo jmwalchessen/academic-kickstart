@@ -20,27 +20,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "[Citadel Data Open](https://www.cmu.edu/dietrich/news/news-stories/2017/november/statistics-datathons.html) Datathon at Carnegie Mellon University"
+  organization = "1st Prize"
+  certificate_url = ""
+  date_start = "2017-11-01"
   date_end = ""
-  description = ""
+  description = "Competed and won with fellow students [Alan Mishler](https://www.alanmishler.com), Kwhangho Kim, and Chirag Nagpal (550+ student applications, around 125 students selected to compete)."
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Full Scholarship - 2011, 2012, 2013"
+  organization = "[Scuola of Studi Superiori 'Ferdinando Rossi'](https://ssst.campusnet.unito.it/do/home.pl)"
+  certificate_url = ""
+  date_start = "2013-01-01"
   date_end = ""
-  description = ""
-  
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "Scholarship covering tuition fees, annual bursary and living expenses via the [Scuola of Studi Superiori 'Ferdinando Rossi'](https://ssst.campusnet.unito.it/do/home.pl) and ['Compagnia di San Paolo'](https://www.compagniadisanpaolo.it/eng)."
 
+[[item]]
+  title = "[Alfaclass](http://alfaclass.i-learn.unito.it/?lang=en) Mathematics Team Competition"
+  organization = "1st Prize"
+  certificate_url = ""
+  date_start = "2012-10-01"
+  date_end = ""
+  description = "Mathematics team competition within the Mathematics summer camp 'Alfaclass', held via invitation only based on academic merit."
 +++
