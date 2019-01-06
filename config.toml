@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "dark"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -271,14 +271,14 @@ enableGitInfo = false
     link = "https://twitter.com/Mr8ND"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=hFh64VcAAAAJ&hl=it&oi=ao"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/Mr8ND"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=hFh64VcAAAAJ&hl=it&oi=ao"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
