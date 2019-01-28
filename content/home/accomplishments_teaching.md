@@ -32,7 +32,8 @@ date_format = "Jan 2006"
   * 36-492 Financial Data Science I 
   * 36-493 Financial Data Science II 
   * 36-315 Statistical Graphics and Visualization (Head TA)
-  * 36-750 Statistical Computing - Graduate Level
+  * 36-750 Statistical Computing - PhD Level
+  * 36-708 Statistical Methods in Machine Learning - PhD Level
   """
 
 [[item]]
