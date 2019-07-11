@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "personal_image.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ndalmass@stat.cmu.edu"
+  email = "ndalmass AT stat DOT cmu DOT edu"
   address = "5000 Forbes Avenue, Pittsburgh, PA, 15213"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
@@ -197,7 +197,7 @@ enableGitInfo = false
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-    'Uncategorized',  # 0
+    'Preprints',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
     'Manuscript',  # 3
@@ -310,10 +310,10 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Teaching"
