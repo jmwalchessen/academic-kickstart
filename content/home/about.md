@@ -35,6 +35,9 @@ weight = 5
   course = "Diploma in Natural Sciences"
   institution = "Scuola di Studi Superiori 'Ferdinando Rossi'"
   year = 2010
+  
+[[experience]]
+  year= 2019
  
 +++
 
