@@ -4,7 +4,7 @@ date = 2018-12-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yotam Hechtlinger", "<b> Niccolò Dalmasso </b>", "Alessandro Rinaldo", "Larry Wasserman"]
+authors = ["Yotam Hechtlinger", "<b> Niccolò Dalmasso</b>", "Alessandro Rinaldo", "Larry Wasserman"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *NeurIPS 2018* Workshop on Critiquing and Correcting Trends in Machine Learning"
-publication_short = "In *NeurIPS 2018* Workshop"
+publication_short = "In *NeurIPS 2018* CRACT Workshop"
 
 # Abstract and optional shortened version.
 abstract = "We propose Lebesgue Regression, a non-parametric high-dimensional regression method that gives prediction sets instead of a single predicted value. Lebesgue regression first uses the response Y to bin the data (as in Lebesgue integration). From this binning, we construct prediction scores that lead to distribution freeprediction sets with guaranteed prediction coverage at a pre-specified level 1−α. The method is automatically cautious: outliers and attempts to extrapolate yield empty prediction sets. We demonstrate the method on D31, a spatially complexstructured dataset and the Merck dataset, a high dimensional regression problem."
