@@ -23,7 +23,7 @@ list_format = 0
 exclude_selected = false
 +++
 
-* <b>July 2019</b>: Two presentations and posters at the 2019 Joint Statistical Meeting (JSM) in Denver, CO.
+* <b>July 2019</b>: Presentation and poster at the [2019 Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) in Denver, CO.
 * <b>June 2019</b>: Poster presentation at the [Climate Change: How can AI help?](https://www.climatechange.ai/ICML2019_workshop.html) ICML 2019 workshop in Long Beach, CA.
 * <b>Dec. 2018</b>: Poster presentation at the [Critiquing and Correcting Trends in Machine Learning](https://ml-critique-correct.github.io/) NeurIPS 2018 workshop in Montreal, Canada.
 * <b>May 2018 - Aug. 2018</b>: AI Research Intern at IBM Research in Yorktown Heights, NY.
