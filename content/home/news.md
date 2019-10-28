@@ -22,7 +22,10 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-
+* <b>December 2019</b>: NeurIPS 2019 Workshops in Vancouver, Canada:
+  * [AI for Humanitarian Assistance and Disaster Response](https://www.hadr.ai/) (<b>Spotlight Talk</b>);
+  * [Tackling Climate Change with ML](https://www.climatechange.ai/NeurIPS2019_workshop.html) (<b>Spotlight Talk</b>);
+  * [“Do the right thing”: machine learning and causal inference for improved decision making.](http://tripods.cis.cornell.edu/neurips19_causalml/)
 * <b>July 2019</b>: Presentation and poster at the [2019 Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) in Denver, CO.
 * <b>June 2019</b>: Poster presentation at the [Climate Change: How can AI help?](https://www.climatechange.ai/ICML2019_workshop.html) ICML 2019 workshop in Long Beach, CA.
 * <b>Dec. 2018</b>: Poster presentation at the [Critiquing and Correcting Trends in Machine Learning](https://ml-critique-correct.github.io/) NeurIPS 2018 workshop in Montreal, Canada.

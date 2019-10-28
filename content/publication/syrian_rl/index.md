@@ -1,10 +1,10 @@
 +++
-title = "Conditional Density Estimation Tools in Python and R with Applications to Photometric Redshifts and Likelihood-Free Cosmological Inference"
-date = 2019-07-01T00:00:00
+title = "Feature Engineering for Entity Resolution with Arabic Names:  Improving Estimates of Observed Casualties in the Syrian Civil War"
+date = 2019-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<b> Niccolò Dalmasso</b>", "Taylor Pospisil", "Ann B. Lee", "Rafael Izbicki", "Peter E. Freeman", "Alex I. Malz"]
+authors = ["<b> Niccolò Dalmasso</b>", "Robin Mejia", "Jordan Rodu", "Megan Price", "Jared S Murray"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["<b> Niccolò Dalmasso</b>", "Taylor Pospisil", "Ann B. Lee", "Rafael
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -42,8 +42,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1908.11523"
-url_code = "https://github.com/Mr8ND/cdetools_applications"
+url_preprint = "https://www.cmu.edu/chrs/publications/pdf/ai_for_hadr_neurips_2019.pdf"
+url_code = "https://github.com/Mr8ND/record-linkage-syrian"
 url_dataset = ""
 url_project = ""
 url_slides = ""
