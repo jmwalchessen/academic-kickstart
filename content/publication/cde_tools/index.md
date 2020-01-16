@@ -15,11 +15,11 @@ authors = ["<b> Niccolò Dalmasso</b>", "Taylor Pospisil", "Ann B. Lee", "Rafael
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "In *Astronomy and Computing*"
+publication_short = "In *Astronomy and Computing*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2213133719301313?via%3Dihub"
 url_preprint = "https://arxiv.org/abs/1908.11523"
 url_code = "https://github.com/Mr8ND/cdetools_applications"
 url_dataset = ""
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.ascom.2019.100362"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

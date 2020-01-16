@@ -27,13 +27,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """In-class tutorials, office hours and grading for the following classes: 
 
+  * 36-300 Sampling, Survey and Society (Head TA)
+  * 36-315 Statistical Graphics and Visualization (Head TA)
   * 36-401 Modern Regression 
   * 36-402 Undergraduate Advanced Data Analysis 
   * 36-492 Financial Data Science I 
   * 36-493 Financial Data Science II 
-  * 36-315 Statistical Graphics and Visualization (Head TA)
-  * 36-750 Statistical Computing - PhD Level
-  * 36-708 Statistical Methods in Machine Learning - PhD Level
+  * 36-708 Statistical Methods in Machine Learning (PhD Level Class)
+  * 36-750 Statistical Computing (PhD Level Class)
   """
 
 [[item]]
