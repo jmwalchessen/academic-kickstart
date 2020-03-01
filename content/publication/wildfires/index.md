@@ -1,5 +1,5 @@
 +++
-title = "Feature Engineering for Entity Resolution with Arabic Names:  Improving Estimates of Observed Casualties in the Syrian Civil War"
+title = "Predictive Inference of a Wildfire Risk Pipeline in the United States"
 date = 2019-12-13T00:00:00
 draft = false
 
