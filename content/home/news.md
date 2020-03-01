@@ -22,7 +22,8 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* <b>February 2020</b>: Poster presentation [Astronomical Data Science Workshop](https://calendar.tamu.edu/statistics/view/event/event_id/153058) at Texas A&M University, TX.
+* I will be joining [J.P. Morgan Artificial Intelligence](https://www.jpmorgan.com/global/technology/artificial-intelligence) for a summer internship in New York City in May 2020.
+* <b>February 2020</b>: Poster presentation at the [Astronomical Data Science Workshop](https://calendar.tamu.edu/statistics/view/event/event_id/153058) at Texas A&M University, TX.
 * <b>December 2019</b>: NeurIPS 2019 Workshops in Vancouver, Canada:
   * [AI for Humanitarian Assistance and Disaster Response](https://www.hadr.ai/) (<b>Spotlight Talk</b>);
   * [Tackling Climate Change with ML](https://www.climatechange.ai/NeurIPS2019_workshop.html) (<b>Spotlight Talk</b>);
