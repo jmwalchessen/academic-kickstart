@@ -47,7 +47,7 @@ url_code = "https://github.com/Mr8ND/record-linkage-syrian"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://slideslive.com/38922540/spotlight-talk-1-feature-engineering-for-entity-resolution-with-arabic-names-improving-estimates-of-observed-casualties-in-the-syrian-civil-war?ref=speaker-23331-latest"
 url_poster = ""
 url_source = ""
 

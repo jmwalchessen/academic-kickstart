@@ -47,7 +47,7 @@ url_code = "https://github.com/shamindras/backburner"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://slideslive.com/38922369/predictive-inference-of-a-wildfire-risk-pipeline-in-the-united-states?ref=speaker-23331-latest"
 url_poster = ""
 url_source = ""
 
