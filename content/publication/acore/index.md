@@ -1,6 +1,6 @@
 +++
 title = "Confidence Sets and Hypothesis Testing in a Likelihood-Free Inference Setting"
-date = 2020-02-01T00:00:00
+date = 2020-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["<b>Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "International Conference on Machine Learning (_ICML_)"
+publication_short = "International Conference on Machine Learning (_ICML_)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,8 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2002.10399.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/2002.10399.pdf"
 url_code = "https://github.com/Mr8ND/ACORE-LFI"
 url_dataset = ""
 url_project = ""
