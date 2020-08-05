@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 +++
 
 * <b> [2017 Citadel Data Open](https://www.cmu.edu/dietrich/news/news-stories/2017/november/statistics-datathons.html) Datathon at Carnegie Mellon University </b> <br> 
-Competed and won with fellow students [Alan Mishler](https://www.alanmishler.com), Kwhangho Kim, and Chirag Nagpal (550+ student applications, around 125 students selected to compete). <br>
+Competed and won with fellow students [Alan Mishler](https://alanmishler.com), Kwhangho Kim, and Chirag Nagpal (550+ student applications, around 125 students selected to compete). <br>
 <br>
 * <b> [2012 Alfaclass](http://alfaclass.i-learn.unito.it/?lang=en) Mathematics Team Competition </b> <br>
 First prize across 100 students selected based on GPA across mathematics and engineering department at University of Turin. <br>
