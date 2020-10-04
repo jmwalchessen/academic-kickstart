@@ -22,7 +22,9 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* I will be joining [J.P. Morgan Artificial Intelligence](https://www.jpmorgan.com/global/technology/artificial-intelligence) for a summer internship in New York City in May 2020.
+* <b>August 2020</b>: Presenting of our paper "[Validation of Approximate Likelihood and Emulator Models for Computationally Intensive Simulations](http://proceedings.mlr.press/v108/dalmasso20a.html)" at AISTATS 2020 ([online talk](https://slideslive.com/38930256/validation-of-approximate-likelihood-and-emulator-models-for-computationally-intensive-simulations?ref=account-folder-52123-folders)).
+* <b>July 2020</b>: Presenting of our paper "[Confidence Sets and Hypothesis Testing in a Likelihood-Free Inference Setting](https://proceedings.icml.cc/static/paper_files/icml/2020/4284-Paper.pdf)" at ICML 2020 ([online talk](https://icml.cc/virtual/2020/poster/6469)).
+* <b>June 2020 - Aug. 2020</b>: Summer Research Associate, AI & Machine Learning
 * <b>February 2020</b>: Poster presentation at the [Astronomical Data Science Workshop](https://calendar.tamu.edu/statistics/view/event/event_id/153058) at Texas A&M University, TX.
 * <b>December 2019</b>: NeurIPS 2019 Workshops in Vancouver, Canada:
   * [AI for Humanitarian Assistance and Disaster Response](https://www.hadr.ai/) (<b>Spotlight Talk</b>);

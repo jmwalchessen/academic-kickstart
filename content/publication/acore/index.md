@@ -41,13 +41,13 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://proceedings.icml.cc/static/paper_files/icml/2020/4284-Paper.pdf"
 url_preprint = "https://arxiv.org/pdf/2002.10399.pdf"
 url_code = "https://github.com/Mr8ND/ACORE-LFI"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://icml.cc/virtual/2020/poster/6469"
 url_poster = ""
 url_source = ""
 

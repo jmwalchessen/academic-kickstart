@@ -41,13 +41,13 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://proceedings.mlr.press/v108/dalmasso20a.html"
 url_preprint = "https://arxiv.org/abs/1905.11505"
 url_code = "https://github.com/Mr8ND/Emulator-Validation-LFI"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://slideslive.com/38930256/validation-of-approximate-likelihood-and-emulator-models-for-computationally-intensive-simulations?ref=account-folder-52123-folders"
 url_poster = ""
 url_source = ""
 
