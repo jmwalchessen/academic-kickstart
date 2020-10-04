@@ -1,3 +1,5 @@
 public/
 .idea/
 info_working_website_locally.txt
+.DS_Store
+*/.DS_Store
