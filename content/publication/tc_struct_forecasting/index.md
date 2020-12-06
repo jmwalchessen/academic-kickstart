@@ -1,10 +1,10 @@
 +++
 title = "Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning"
-date = 2021-01-11T00:00:00
+date = 2020-11-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<b> Niccolò Dalmasso</b>", "Robert E. Tillman", "Prashant Reddy", "Manuela Veloso"]
+authors = ["Trey McNeely", "<b> Niccolò Dalmasso</b>", "Kimberly M. Wood", "Ann B. Lee"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["<b> Niccolò Dalmasso</b>", "Robert E. Tillman", "Prashant Reddy", "
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *AAAI 2021* Workshop on Knowledge Discovery from Unstructured Data in Financial Services Workshop (**Oral**)"
-publication_short = "In *AAAI 2021* Workshop on Knowledge Discovery from Unstructured Data in Financial Services Workshop (**Oral**)"
+publication = "In *NeurIPS 2020* Tackling Climate Change with Machine Learning Workshop (**Spotlight Talk**)"
+publication_short = "In *NeurIPS 2020* Tackling Climate Change with Machine Learning Workshop (**Spotlight Talk**)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,8 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://www.climatechange.ai/papers/neurips2020/80/paper.pdf"
+url_preprint = "https://arxiv.org/pdf/2010.05783.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
