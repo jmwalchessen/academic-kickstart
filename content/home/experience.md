@@ -18,6 +18,16 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "AI & Machine Learning, Summer Associate"
+  company = "J.P.Morgan AI Research"
+  company_url = "https://www.jpmorgan.com/insights/research"
+  location = "Online"
+  date_start = "2020-06-16"
+  date_end = "2020-08-07"
+  description = """Research and development of deep generative models for high-fidelity synthetic financial data. """
+
 [[experience]]
   title = "AI Research Intern"
   company = "IBM Research"
