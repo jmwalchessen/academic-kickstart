@@ -22,7 +22,7 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* <b>January 2021</b>: I'll be at the [AAAI Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://aaai-kdf.github.io/kdf2021/accepted_papers) presenting our paper on "[PayVAE: A Generative Model for Financial Transactions](https://aaai-kdf.github.io/kdf2021/accepted_papers)"
+# * <b>January 2021</b>: I'll be at the [AAAI Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://aaai-kdf.github.io/kdf2021/accepted_papers) presenting our paper on "[PayVAE: A Generative Model for Financial Transactions](https://aaai-kdf.github.io/kdf2021/accepted_papers)"
 * <b>December 2020</b>: I'll be at the NeurIPS 2020 [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2020) Workshop presenting:
     * "[Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning](https://www.climatechange.ai/papers/neurips2020/80)" (<b>Spotlight Talk</b>)
     * "[HECT: High-Dimensional Ensemble Consistency Testing for Climate Models](https://www.climatechange.ai/papers/neurips2020/83)"
