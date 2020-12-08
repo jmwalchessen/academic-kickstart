@@ -1,6 +1,6 @@
 +++
 title = "PayVAE: A Generative Model for Financial Transactions"
-date = 2021-12-06T00:00:00
+date = 2020-12-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
