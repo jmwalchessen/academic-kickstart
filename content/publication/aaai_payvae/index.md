@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_17.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
