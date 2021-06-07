@@ -26,7 +26,7 @@ abstract = "We propose Lebesgue Regression, a non-parametric high-dimensional re
 abstract_short = "We propose Lebesgue Regression, a non-parametric high-dimensional regression method that gives prediction sets instead of a single predicted value. Our method as a theoretically guaranteed coverage and automatically cautious - i.e. outliers and extrapolations returns empty prediction sets."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -26,7 +26,7 @@ abstract = "Hurricanes and, more generally, tropical cyclones (TCs) are rare, co
 abstract_short = "We introduce a new pipeline that encourages transparent and adaptable prediction band development by streamlining cyclone track simulation and prediction band generation. We also provide updates to existing models and novel statistical methodologies in both areas of the pipeline, respectively."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
