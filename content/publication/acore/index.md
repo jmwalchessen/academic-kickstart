@@ -18,7 +18,7 @@ authors = ["<b>Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Machine Learning (_ICML_)"
+publication = "International Conference on Machine Learning  (_ICML_)"
 publication_short = "International Conference on Machine Learning (_ICML_)"
 
 # Abstract and optional shortened version.
