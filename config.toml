@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "personal_image.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ndalmass AT stat DOT cmu DOT edu"
+  email = "ndalmass AT alumni DOT cmu DOT edu"
   address = "5000 Forbes Avenue, Pittsburgh, PA, 15213"
   #office_hours = """
   #Monday 10:00 to 13:00<br>

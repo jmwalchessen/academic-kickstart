@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
+* <b> 2021 Statistics & Data Science Student of the Year</b>
 * <b> 2019 Statistics & Data Science TA of the Year</b> <br> 
 For the services offered as TA of 36-650\750 (Statistical Computing). 
 <br>

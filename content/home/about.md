@@ -42,6 +42,7 @@ weight = 5
 +++
 
 # About
-I am a fifth year PhD student in the department of Statistics & Data Science at Carnegie Mellon University. My primary research interests are statistical machine learning methodologies driven by real world problems and complex datasets, especially from the natural sciences. I am very fortunate to be advised by Professor [Ann B. Lee](http://www.stat.cmu.edu/~annlee/). I am an active member and website maintainer of the Statistical Methods for the Physical Sciences ([STAMPS](http://stat.cmu.edu/stamps/)).
+I am senior researcher at JPMorgan Chase AI Research in New York. Before that, I was a PhD student in the department of Statistics & Data Science at Carnegie Mellon University, where I was fortunate to be advised by professor [Ann B. Lee](http://www.stat.cmu.edu/~annlee/). 
+My research interests lie in the statistical machine learning realm.
 
 Prior to CMU, I have worked for a couple of years in London as Analyst for Zynga (NaturalMotion) after pursuing an M.Sc. in Statistics at Imperial College London, where I have worked on bayesian hierarchical models for cosmology under the guidance of Dr. [Daniel Mortlock](https://www.imperial.ac.uk/people/d.mortlock) and Dr. [Stephen Feeney](http://zuserver2.star.ucl.ac.uk/~smf/). Before that, everything started with a B.Sc. in Mathematics and a Diploma in Government and Natural Sciences from University of Turin, Italy.
