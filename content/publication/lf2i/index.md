@@ -1,10 +1,10 @@
 +++
 title = "Validating Conditional Density Models and Bayesian Inference Algorithms"
-date = 2021-06-01T00:00:00
+date = 2021-07-08T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["David Zhao", "<b> Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
+authors = ["<b> Niccolò Dalmasso</b>", "Luca Masserano", "David Zhao",  "Rafael Izbicki", "Ann B. Lee"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["David Zhao", "<b> Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at *UAI 2021*"
-publication_short = "Accepted at *UAI 2021*"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,9 +41,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://proceedings.mlr.press/v161/zhao21b/zhao21b.pdf"
-url_preprint = "https://arxiv.org/abs/2102.10473"
-url_code = "https://github.com/zhao-david/CDE-diagnostics"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/2107.03920"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
