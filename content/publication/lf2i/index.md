@@ -1,5 +1,5 @@
 +++
-title = "Validating Conditional Density Models and Bayesian Inference Algorithms"
+title = "Likelihood-Free Frequentist Inference: Confidence Sets with Correct Conditional Coverage"
 date = 2021-07-08T00:00:00
 draft = false
 

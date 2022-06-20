@@ -1,6 +1,6 @@
 +++
 title = "Structural Forecasting for Short-term Tropical Cyclone Intensity Guidance"
-date = 2020-05-31T00:00:00
+date = 2022-05-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
