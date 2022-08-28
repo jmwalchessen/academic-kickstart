@@ -1,10 +1,10 @@
 +++
-title = "Confidence Sets and Hypothesis Testing in a Likelihood-Free Inference Setting"
-date = 2020-06-01T00:00:00
-draft = false
+title = "Estimating Posterior Uncertainty via a Data Assimilation Specialized Monte Carlo Procedure"
+date = 2022-09-01T00:00:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<b>Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
+authors = ["<b>Michael Stanley</b>", "Junjie Liu", "Brendan Byrne", "Mikael Kuusela"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["<b>Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Machine Learning (_ICML_)"
-publication_short = "International Conference on Machine Learning (_ICML_)"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,13 +41,13 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://proceedings.icml.cc/static/paper_files/icml/2020/4284-Paper.pdf"
-url_preprint = "https://arxiv.org/pdf/2002.10399.pdf"
-url_code = "https://github.com/Mr8ND/ACORE-LFI"
+url_pdf = ""
+url_preprint = ""
+url_code = "ß"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://icml.cc/virtual/2020/poster/6469"
+url_video = ""
 url_poster = ""
 url_source = ""
 

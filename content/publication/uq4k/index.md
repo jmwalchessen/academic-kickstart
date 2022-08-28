@@ -1,10 +1,10 @@
 +++
-title = "Likelihood-Free Frequentist Inference: Confidence Sets with Correct Conditional Coverage"
-date = 2021-07-08T00:00:00
+title = "Uncertainty quantification of the 4th kind; optimal posterior accuracy-uncertainty tradeoff with the minimum enclosing ball"
+date = 2021-08-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<b> Niccolò Dalmasso</b>", "Luca Masserano", "David Zhao",  "Rafael Izbicki", "Ann B. Lee"]
+authors = ["Hamed Hamze Bajgiran", "Pau Batlle Franch", "Houman Owhadi", "Clint Scovel", "Mahdy Shirdel", "<b>Michael Stanley</b>", "Peyman Tavallali"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["<b> Niccolò Dalmasso</b>", "Luca Masserano", "David Zhao",  "Rafael
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -42,8 +42,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/2107.03920"
-url_code = ""
+url_preprint = "https://arxiv.org/pdf/2108.10517.pdf"
+url_code = "https://github.com/JPLMLIA/UQ4K"
 url_dataset = ""
 url_project = ""
 url_slides = ""

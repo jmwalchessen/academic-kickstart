@@ -1,10 +1,10 @@
 +++
-title = "Validating Conditional Density Models and Bayesian Inference Algorithms"
-date = 2021-06-01T00:00:00
+title = "Uncertainty quantification for wide-bin unfolding: one-at-a-time strict bounds and prior-optimized confidence intervals"
+date = 2022-04-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["David Zhao", "<b> Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. Lee"]
+authors = ["<b>Michael Stanley</b>", "Pratik Patil", "Mikael Kuusela"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["David Zhao", "<b> Niccolò Dalmasso</b>", "Rafael Izbicki", "Ann B. 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at *UAI 2021*"
-publication_short = "Accepted at *UAI 2021*"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,9 +41,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://proceedings.mlr.press/v161/zhao21b/zhao21b.pdf"
-url_preprint = "https://arxiv.org/abs/2102.10473"
-url_code = "https://github.com/zhao-david/CDE-diagnostics"
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/2111.01091.pdf"
+url_code = "https://github.com/mcstanle/unfolding_osb_po_uq"
 url_dataset = ""
 url_project = ""
 url_slides = ""
