@@ -22,7 +22,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Machine Learn and Instrument Autonomy (MLIA) Summer Intern"
   company = "Jet Propulsion Laboratory"
-  company_url = "https://www.jpmorgan.com/insights/research"
+  company_url = "https://ml.jpl.nasa.gov"
   location = "Remote"
   date_start = "2020-06-01"
   date_end = "2020-08-01"
