@@ -19,47 +19,22 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
 [[experience]]
-  title = "AI & Machine Learning, Senior Research Associate"
-  company = "J.P.Morgan AI Research"
+  title = "Machine Learn and Instrument Autonomy (MLIA) Summer Intern"
+  company = "Jet Propulsion Laboratory"
   company_url = "https://www.jpmorgan.com/insights/research"
-  location = "New York"
-  date_start = "2021-06-28"
-  date_end = ""
-  description = """"""
-
-
-[[experience]]
-  title = "AI & Machine Learning, Summer Associate"
-  company = "J.P.Morgan AI Research"
-  company_url = "https://www.jpmorgan.com/insights/research"
-  location = "Online"
-  date_start = "2020-06-16"
-  date_end = "2020-08-07"
-  description = """Research and development of deep generative models for high-fidelity synthetic financial data. """
+  location = "Remote"
+  date_start = "2020-06-01"
+  date_end = "2020-08-01"
+  description = """Researched gradient-free optimizations and developed a codebase for a decision theoretic uncertainty quantification method. """
 
 [[experience]]
-  title = "AI Research Intern"
-  company = "IBM Research"
-  company_url = "http://www.research.ibm.com/"
-  location = "Yorktown Heights, NY"
-  date_start = "2018-05-23"
-  date_end = "2018-08-10"
-  description = """Convolutional deep neural networks pruning for multiple objectives, in PyTorch. """
-
-[[experience]]
-  title = "Game Analyst - Data Science Team"
-  company = "Zynga (Naturalmotion LTD)"
-  company_url = "https://www.naturalmotion.com/"
-  location = "London"
-  date_start = "2014-10-01"
-  date_end = "2016-06-03"
-  description = """Data processing and modeling for live and in development games, mainly [Dawn of Titans](http://www.dawnoftitans.com/). Main projects:
-  
-  * Behavior-based clustering for the user base;
-  * Supervised classification task mainly targeting user retention and monetization;
-  * Automatic KPI reporting for company-wide distribution;
-  * ETL data pipelines in Python for live internal dashboards."""
+  title = "Senior Data Scientist"
+  company = "tellic"
+  company_url = "https://www.tellic.com"
+  location = "New York, NY"
+  date_start = "2016-05-01"
+  date_end = "2019-06-01"
+  description = """Worked with pharmaceutical text data to assist in standing up tellic's NLP technology. """
 
 +++

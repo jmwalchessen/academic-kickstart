@@ -23,7 +23,7 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
   company = "Carnegie Mellon University"
   company_url = ""
   location = "Pittsburgh"
-  date_start = "2016-08-01"
+  date_start = "2019-08-01"
   date_end = ""
   description = """ TA courses """
 

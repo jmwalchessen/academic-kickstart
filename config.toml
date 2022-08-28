@@ -313,8 +313,8 @@ enableGitInfo = false
     weight = 2
 
 [[menu.main]]
-  name = "News"
-  url = "#news"
+  name = "Talks"
+  url = "#talks"
   weight = 3
 
 [[menu.main]]
@@ -332,10 +332,15 @@ enableGitInfo = false
 #  url = "#projects"
 #  weight = 4
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#accomplishments_teaching"
-#  weight = 5
+[[menu.main]]
+  name = "Teaching and Mentoring"
+  url = "#accomplishments_teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "Grants"
+  url = "#accomplishments"
+  weight = 6
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -345,7 +350,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 7
 
 # Search.
 [params.search]

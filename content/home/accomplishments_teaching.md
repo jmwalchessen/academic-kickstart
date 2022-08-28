@@ -23,45 +23,34 @@ date_format = "Jan 2006"
   title = "Teaching Assistant"
   organization = "Department of Statistics & Data Science, Carnegie Mellon University"
   certificate_url = ""
-  date_start = "2016-08-01"
+  date_start = "2019-08-01"
   date_end = ""
-  description = """In-class tutorials, office hours and grading for the following classes: 
+  description = """Leading recitations, grading homework, organizing TA schedules, hosting office hours, and developing custom software to streamline grading: 
 
-  * 36-303 Sampling, Survey and Society (Head TA)
-  * 36-315 Statistical Graphics and Visualization (Head TA)
-  * 36-401 Modern Regression 
-  * 36-402 Undergraduate Advanced Data Analysis 
-  * 36-492 Financial Data Science I 
-  * 36-493 Financial Data Science II 
-  * 36-708 Statistical Methods in Machine Learning (PhD Level Class)
-  * 36-750 Statistical Computing (PhD Level Class)
+  * 36-218 Probability Theory for Computer Scientists (Head TA)
+  * 36-219 Probability Theory and Random Processes (Head TA)
+  * 36-226 Introduction to Statistical Inference (Head TA)
+  * 36-401 Modern Regression
+  * 36-402 Advanced Methods for Data Analysis
+  * 46-924 Natural Language Processing (for the M.S. in Computational Finance program)
   """
 
 [[item]]
-  title = "Lecturer"
-  organization = "[Campus FMS](http://www.campusmfs.it/)"
+  title = "Lead Instructor @ Data Science Summer Camp"
+  organization = "Department of Statistics & Data Science, Carnegie Mellon University"
   certificate_url = ""
-  date_start = "2012-07-01"
-  date_end = "2016-07-01"
-  description = """ Taught a multitude of classes during summer and winter courses for high school students, located in the Turin area (Italy). Courses and tutorials included:
-
-  - Mathematical analysis in one, two and higher dimensions
-  - Game theory
-  - Probability theory and Statistics
-  - Dynamical systems
-  - Mathematical Logic
+  date_start = "2022-06-01"
+  date_end = "2022-07-01"
+  description = """ Developed and led a week-long data science summer camp to expose local high school students to a career in data science, including lectures and interactive coding activities.
  """
   
 [[item]]
-  title = "Advising and Mentoring"
+  title = "Advisor for Data Science Initiative"
   organization = "Department of Statistics & Data Science, Carnegie Mellon University"
   certificate_url = ""
-  date_start = "2016-08-02"
-  description = """ Supervised research carried out by undergraduates students in different occasions:
-
-  * *Summer Undergraduate Research Experience* ([SURE](http://summer.stat.cmu.edu/), Summer 2017) - Advised a team working on automatic typing discrimination and handwritten signature analysis
-  * *Data Science Initiative (DSI) Fellow* (Fall 2018) - Advised two undergraduate teams working with [Principal Financial](https://www.principal.com/).
-
+  date_start = "2019-08-01"
+  date_end = "2019-12-01"
+  description = """ Advised a group of four students for an undergraduate research project with Principal Financial Group to forecast fixed-income market conditions.
   """
 
 +++

@@ -32,14 +32,9 @@ weight = 10
   name = "Machine Learning" 
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "fa-solid fa-arrow-left-long"
   icon_pack = "fas"
-  name = "Data Analysis" 
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  name = "Inverse Modeling" 
 
 [[feature]]
   icon = "python"
@@ -51,6 +46,5 @@ weight = 10
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "MySQL - Vertica SQL" 
 
 +++
