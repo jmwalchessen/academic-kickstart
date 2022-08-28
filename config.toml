@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Niccolò (Nic) Dalmasso, PhD"
+title = "Michael (Mike) Stanley"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-131743827-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -52,19 +52,19 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Nic Dalmasso, PhD"
+  name = "Mike Stanley"
   role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [] #[{ name = """Statistics & Data Science, Carnegie Mellon University""", url = "" } ]
+  organizations = [{ name = """Statistics & Data Science, Carnegie Mellon University""", url = "https://www.cmu.edu/dietrich/statistics-datascience/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "personal_image.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ndalmass AT alumni DOT cmu DOT edu"
-  address = "New York City, NY"
+  email = "mstanle@andrew.cmu.edu"
+  address = "Pittsburgh, PA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
@@ -107,22 +107,22 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
   # Enable users to switch between day and night mode?
   day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "personal_image.png"
+  sharing_image = "headshot.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "Mr8ND"
+  twitter = "sup_mstanley_i"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -263,34 +263,34 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:mcstanle@andrew.cmu.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/Mr8ND"
+    link = "https://github.com/mcstanle"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/Mr8ND"
+    link = "https://twitter.com/sup_mstanley_i"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/nicdalmasso/en"
+    link = "https://www.linkedin.com/in/michael-stanley-815783a1"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=hFh64VcAAAAJ&hl=it&oi=ao"
+    link = "https://scholar.google.com/citations?user=u57SuWMAAAAJ&hl=en&oi=ao"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   #[[params.social]]
   #   icon = "cv"
   #   icon_pack = "ai"
-  #   link = "files/nic_dalmasso_resume.pdf"
+  #   link = "files/Resume_Summer_Internships_2023.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -305,15 +305,22 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[menu.main]]
+    name = "Resume"
+    url = "files/Resume_Summer_Internships_2023.pdf"
+    weight = 2
+
 [[menu.main]]
   name = "News"
   url = "#news"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
@@ -338,14 +345,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#[[menu.main]]
-#    name = "Resume"
-#    url = "files/nic_dalmasso_resume.pdf"
-#    weight = 7
+  weight = 5
 
 # Search.
 [params.search]
