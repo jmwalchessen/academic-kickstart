@@ -37,4 +37,4 @@ weight = 5
 +++
 
 # About
-I am going into the fourth year of my PhD at Carnegie Mellon University.
+Entering my fourth year as a PhD student in the department of Statistics and Data Science at Carnegie Mellon University (CMU), my primary focus has been on uncertainty quantification for ill-posed inverse problems in the physical sciences. In particular, I have worked on methods in carbon flux inversion with collaborators at the Jet Propulsion Laboratory and particle unfolding with my advisor, Mikael Kuusela at CMU. Additionally, I have an on-going collaboration with the Owhadi Group at Caltech on a related decision theoretic approach to uncertainty quantification.
