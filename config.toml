@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.stat.cmu.edu/~mcstanle"
+baseurl = "https://www.stat.cmu.edu/~"
 
 # Title of your site
-title = "Michael (Mike) Stanley"
+title = "Julia Walchessen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "headshot.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "mstanle@andrew.cmu.edu"
+  email = "jwalches@andrew.cmu.edu"
   address = "Pittsburgh, PA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
